@@ -92,7 +92,7 @@ docker run --rm osixia/keepalived -x keepalived -- --help # keepalived command-l
 
 See full documentation and complete features list on [osixia/keepalived documentation](https://opensource.osixia.net/projects/container-images/keepalived/).
 
-This image is based on [osixia/baseimage](https://github.com/osixia/container-baseimage)
+This image is based on [osixia/baseimage](https://github.com/osixia/container-baseimage).
 
 ## 🔀 Contributing
 
