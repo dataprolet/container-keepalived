@@ -7,5 +7,9 @@ services:
       - NET_ADMIN
       - NET_RAW
       - NET_BROADCAST
-    volumes:
-      - ./data:/etc/keepalived
+
+# Optional: volume for config, uncomment if needed
+#    volumes:
+#      - config:/etc/keepalived
+#volumes:
+#  config:
